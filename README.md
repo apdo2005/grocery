@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # grocey
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# grocery
+E-commerce app 
+>>>>>>> 9a2ae55732c56348906a4bea403c8fb2babcd8dc
